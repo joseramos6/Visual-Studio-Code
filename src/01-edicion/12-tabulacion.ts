@@ -3,8 +3,8 @@
 //*        Jugar con la tabulación
 //*
 //*    Tips:
-//*        Tab
-//*        Tab + Shift
+//*        Tab           MAC OS
+//*        Tab + Shift   WINDOWS
 //*
 
 

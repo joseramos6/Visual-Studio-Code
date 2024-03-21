@@ -3,10 +3,10 @@
 //*        Deshacer y rehacer el código
 //*
 //*    Tips:
-//*        ⌘ Z
-//*        ⌘ ⇧ Z
-//*        Ctrl +Z
-//*        Ctrl + Shift + Z
+//*        ⌘ Z                MAC OS
+//*        ⌘ ⇧ Z              MAC OS
+//*        Ctrl +Z            WINDOWS
+//*        Ctrl + Shift + Z   WINDOWS
 //*
 
 

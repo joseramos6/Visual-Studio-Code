@@ -3,15 +3,15 @@
 //*        Ir a la definición de la función saludar rápidamente
 //*
 //*    Tips:
-//*        Ojear definición   ⌥ F12
-//*        Ir a la definición F12
+//*        Ojear definición   ⌥ F12    MAC OS
+//*        Ir a la definición F12      WINDOWS
 //*
-//*        Ojear definición   Alt + F12
-//*        Ir a la definición F12
+//*        Ojear definición   Alt + F12    MAC OS
+//*        Ir a la definición F12          WINDOWS
 //*
 
 import { saludar } from './extra/funciones';
 
-const saludo = saludar( 'Thanos' );
+const saludo = saludar( 'Jose Ramos' );
 
 console.log(saludo);

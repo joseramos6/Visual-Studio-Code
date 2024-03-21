@@ -3,13 +3,13 @@
 //*        Comentar un bloque de código
 //*
 //*    Tips:
-//*        ⇧ ⌘ K
-//*        Ctrl + Shift + K
+//*        ⇧ ⌘ K                MAC OS
+//*        Ctrl + Shift + K     WINDOWS
 //*
 //*    PRO:
 //*        Seleccionar todas las ocurrencias de la selección
-//*        ⇧ ⌘ L
-//*        Ctrl + Shift + L
+//*        ⇧ ⌘ L               MAC OS
+//*        Ctrl + Shift + L    WINDOWS
 //*
 
 let NoMeBorres = ':)';

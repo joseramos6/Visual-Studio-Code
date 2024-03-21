@@ -3,9 +3,9 @@
 //*        Comentar un bloque de código
 //*
 //*    Tips:
-//*        ⌘ /
+//*        ⌘ /       MAC OS
 //*        
-//*        Ctrl + \
+//*        Ctrl + \  WINDOWS
 //*
 
 const a = 10;

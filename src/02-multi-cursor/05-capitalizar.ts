@@ -21,7 +21,7 @@
 function capitalizados() {
     //! Sólo la primera letra
     const hulk       = 'brouce banner';
-    const Hawkeye    = 'cinton francis';
+    const hawkeye    = 'cinton francis';
     const ironman    = 'tony stark';
     const spiderman  = 'peter parker';
     const viudaNegra = 'natalia romanova';

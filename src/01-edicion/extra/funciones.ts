@@ -1,6 +1,4 @@
 
-
-
 export function saludar1( nombre: string ) {
     return `Yo no hago nada!!!`;
 }
