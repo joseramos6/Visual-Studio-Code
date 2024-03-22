@@ -1,3 +1,4 @@
+//  Copiamos el siguiente código para el desarrollo de algunos ejercicios
 
 export class SuperHero {
 

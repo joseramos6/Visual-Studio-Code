@@ -1,3 +1,5 @@
+//  Copiamos el siguiente código para el desarrollo de algunos ejercicios
+
 
 export function saludar1( nombre: string ) {
     return `Yo no hago nada!!!`;

@@ -6,7 +6,7 @@
 //*        Ojear definición   ⌥ F12    MAC OS
 //*        Ir a la definición F12      WINDOWS
 //*
-//*        Ojear definición   Alt + F12    MAC OS
+//*        Ojear definición   Alt + F12    WINDOWS
 //*        Ir a la definición F12          WINDOWS
 //*
 
