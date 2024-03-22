@@ -2,11 +2,11 @@
   <a href="#" target="blank"><img src="https://devtalles.com/images/vscode.png" width="100" alt="Nest Logo" /></a>
 </p>
 
-# Curso de VSCode
+# Curso de Visual Studio Code
 
 Un repositorio donde aprenderemos trucos para trabajar rápidamente con Visual Studio Code.
 
-También hay extensiones bastante útiles que les recomiendo de entrada:
+De igual manera, comparto extensiones bastante útiles que les recomiendo para iniciar:
 
 - [Descargar VSCode - Sitio Oficial](https://code.visualstudio.com/)
 
