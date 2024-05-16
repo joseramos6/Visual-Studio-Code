@@ -50,7 +50,7 @@ En resumen, Visual Studio Code es una herramienta poderosa y flexible que se ada
 
 ### 🚨🔔 ✅ Como 1️⃣ primer paso vamos a realizar las siguientes lecciones que se encuentra ubicado en la carpeta 👨🏻‍💻🚀
 
-- [🗂️ 00 - LECCIONES](https://github.com/joseramos6/Algoritmia/tree/main/00-LECCIONES)
+- [🗂️ 00 - LECCIONES](https://github.com/joseramos6/Visual-Studio-Code/tree/main/00-LECCIONES)
 
 ## 👨🏻‍💻 Ejercicios Académicos 👨🏻‍💻
 
