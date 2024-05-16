@@ -10,11 +10,11 @@ Recuerda que es un contenido 👨🏻‍💻 educativo ✅ **GRATUITO** ✅ y es
 
 # 👨🏻‍💻 Manejo de Visual Studio Code 👨🏻‍💻
 
-Visual Studio Code, comúnmente conocido como VS Code, es un editor de código fuente desarrollado por Microsoft. Es gratuito y de código abierto, y está disponible para Windows, macOS y Linux. VS Code es altamente apreciado en la comunidad de desarrolladores debido a su versatilidad, rendimiento y extensibilidad.
+👨🏻‍💻 Visual Studio Code, comúnmente conocido como VS Code, es un editor de código fuente desarrollado por Microsoft. Es gratuito y de código abierto, y está disponible para Windows, macOS y Linux. 👨🏻‍💻 VS Code es altamente apreciado en la comunidad de desarrolladores debido a su versatilidad, rendimiento y extensibilidad.
 
-VS Code es ampliamente utilizado tanto por desarrolladores profesionales como por estudiantes y aficionados debido a su facilidad de uso y la robustez de sus características. La comunidad activa de desarrolladores que contribuyen con extensiones y temas asegura que VS Code esté en constante evolución y mejora.
+👨🏻‍💻 VS Code es ampliamente utilizado tanto por desarrolladores profesionales como por estudiantes y aficionados debido a su facilidad de uso y la robustez de sus características. La comunidad activa de desarrolladores que contribuyen con extensiones y temas asegura que VS Code esté en constante evolución y mejora.
 
-En resumen, Visual Studio Code es una herramienta poderosa y flexible que se adapta a las necesidades de una amplia variedad de desarrolladores, proporcionando un entorno de desarrollo integrado (IDE) ligero pero robusto.
+✅ En resumen, Visual Studio Code es una herramienta poderosa y flexible que se adapta a las necesidades de una amplia variedad de desarrolladores, proporcionando un entorno de desarrollo integrado (IDE) ligero pero robusto.
 
 ## 🛠 Competencias a desarrollar 👨🏻‍💻
 
@@ -34,17 +34,17 @@ En resumen, Visual Studio Code es una herramienta poderosa y flexible que se ada
 
 ## Extensiones recomendadas
 
-- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+- [🚀 Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 
-- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- [🚀 Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
-- [Activitus Bar](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar)
+- [🚀 Activitus Bar](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.activitusbar)
 
-- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+- [🚀 Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
-- [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
+- [🚀 TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight)
 
-- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+- [🚀 Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 
 ## 👨🏻‍💻 Lecciones 📚🧠
 
